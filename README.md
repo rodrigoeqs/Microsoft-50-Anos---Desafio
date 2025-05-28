@@ -1,3 +1,6 @@
+![capa do podcast](https://github.com/rodrigoeqs/Microsoft-50-Anos---Desafio/blob/1de2f132bc416ccbfa8201031b08804cfaeb5800/estudente%20ghibli.png)
+
+
 # Microsoft-50-Anos---Desafio
 
 ---
