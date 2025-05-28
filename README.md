@@ -27,7 +27,7 @@
 </div>
 
 
-![capa do podcast]()
+
 
 
 # Microsoft-50-Anos---Desafio
