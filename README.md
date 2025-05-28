@@ -32,14 +32,13 @@ A criação do podcast seguiu uma esteira de **prompts e interações com a inte
 
 ---
 
-## 📚 Materiais e Recursos Úteis
+## 📚 Tecnologias utilizadas no Projeto
 
 Aqui estão alguns links e recursos que complementam o projeto e podem auxiliar concurseiros em sua jornada:
 
-* **Estratégia Concursos:** Um dos maiores portais de notícias e cursos para concursos no Brasil.
-* **Qconcursos:** Plataforma com milhares de questões de concursos para prática e simulados.
-* **Gran Cursos Online:** Outra grande plataforma de cursos e materiais para concursos públicos.
-* **Trello:** Ferramenta de organização e gestão de projetos, mencionada no podcast como um recurso útil para planejar estudos.
+* **Gemini:** 
+* **Notebooklm:**
+* **Chat GPT** 
 
 ---
 
