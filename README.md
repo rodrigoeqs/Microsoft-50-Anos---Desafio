@@ -28,7 +28,7 @@ A criação do podcast seguiu uma esteira de **prompts e interações com a inte
 4.  **Criação do Formato do Roteiro:** A IA ajudou a definir a estrutura ideal para cada episódio, incluindo `[INTRODUÇÃO]`, `[TÉCNICA 1]`, `[TÉCNICA 2]` e `[FINALIZAÇÃO]`.
 5.  **Roteirização dos Episódios:** A IA foi instruída a gerar o conteúdo de cada bloco do roteiro, incluindo notícias atuais, explicações de técnicas de estudo (como **Revisão Ativa**) e sugestões de ferramentas (como **Trello**), tudo com uma linguagem acessível.
 6.  **Adaptação do Estilo do Apresentador:** A IA foi treinada para adaptar o tom e a linguagem para um apresentador específico ("Yuri"), garantindo uma despedida alegre e motivadora.
-7.  **Geração de Arte para a Capa:** Uma imagem conceitual para a capa do podcast foi criada pela IA, seguindo um estilo artístico específico (**Studio Ghibli**) com elementos tecnológicos e de estudo.
+7.  **Geração de Arte para a Capa:** Uma imagem conceitual para a capa do podcast foi criada pelo Gemini, seguindo um estilo artístico específico (**Studio Ghibli**) com elementos tecnológicos e de estudo.
 
 ---
 
